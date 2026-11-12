@@ -1,39 +1,39 @@
 {
-  "version": "0.1.10",
+  "version": "0.1.11",
   "notes": "SmartManu desktop installers.\n\nVerify the downloaded installer and record the tested OS and architecture before production rollout.",
-  "pub_date": "2026-11-12T13:42:43.805Z",
+  "pub_date": "2026-11-12T15:14:21.898Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmIyWjF5R1JkMHJRK0R0a21KVEJiek9rZyt2NDA4cWwrQWkvS2M3V0V5d25MUTUrS3MwVTFVbFlKOUcyRXVwblN1aVgxYmlSV01Od1dJZ3pRTE9CTjZXUERKRGd1S2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkwNTE2CWZpbGU6U21hcnRNYW51LmFwcC50YXIuZ3oKVEd6VVdCaU9aYjd3engzT09VRVAyWldLTlJtbHhuNlFCUys2K2htZWdHekNFS3JZQnJOYkhRQmNXS0I2OFAxTDF3UE9WVHROaEVEaTZaeXEzaC9MQ1E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmIyWjF5R1JkMHZoaENNVGloTCtqTEcxeExPZEwvQTBTVFlQdHpOR2xYK0ttUGs5Tkt1S1dTZ0Nha1haMS81V2phOXU0N2REL3NTVHRqYUwzbTdGUHlQMWNibVdHMUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk1NzY4CWZpbGU6U21hcnRNYW51LmFwcC50YXIuZ3oKMHJ2bUZEaDBSQUMxL09kZUhvemZLZ1hEOTI2d00xbnYvem5wOUtxYzAvQnVnZndpZmwvbG9EaCtRcndsU3NIUXVXU0hnK3hnek4zTE1wam9KbmR1Q2c9PQo=",
       "url": "https://kangaro0o.github.io/SmartManu-releases/downloads/desktop/SmartManu_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmIyWjF5R1JkMHJRK0R0a21KVEJiek9rZyt2NDA4cWwrQWkvS2M3V0V5d25MUTUrS3MwVTFVbFlKOUcyRXVwblN1aVgxYmlSV01Od1dJZ3pRTE9CTjZXUERKRGd1S2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkwNTE2CWZpbGU6U21hcnRNYW51LmFwcC50YXIuZ3oKVEd6VVdCaU9aYjd3engzT09VRVAyWldLTlJtbHhuNlFCUys2K2htZWdHekNFS3JZQnJOYkhRQmNXS0I2OFAxTDF3UE9WVHROaEVEaTZaeXEzaC9MQ1E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmIyWjF5R1JkMHZoaENNVGloTCtqTEcxeExPZEwvQTBTVFlQdHpOR2xYK0ttUGs5Tkt1S1dTZ0Nha1haMS81V2phOXU0N2REL3NTVHRqYUwzbTdGUHlQMWNibVdHMUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk1NzY4CWZpbGU6U21hcnRNYW51LmFwcC50YXIuZ3oKMHJ2bUZEaDBSQUMxL09kZUhvemZLZ1hEOTI2d00xbnYvem5wOUtxYzAvQnVnZndpZmwvbG9EaCtRcndsU3NIUXVXU0hnK3hnek4zTE1wam9KbmR1Q2c9PQo=",
       "url": "https://kangaro0o.github.io/SmartManu-releases/downloads/desktop/SmartManu_aarch64.app.tar.gz"
     },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmIyWjF5R1JkMG0vejNEWS9VYlBJdDJOMEJnQ3JlMURRK3dtdXFoQklmcSttVDdlVkVCNmswa2JiRVJjVm9xcmgvd0NLNkxsYzZjWGlITlV2TzJpYUtST0RHbE1QM1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkwOTQzCWZpbGU6U21hcnRNYW51XzAuMS4xMF94NjQtc2V0dXAuZXhlCkE2bk9aS3hMNTNYMlBnd2xNMlhmVlFCamxiNEMyYkEyeHhIK1VkYWFSb3FMTVgxRGxTZm1pRHhnZEt6OVVjcVVsMDVxMVA3dzBLSmJPc1A1WnloYkFnPT0K",
-      "url": "https://kangaro0o.github.io/SmartManu-releases/downloads/desktop/SmartManu_0.1.10_x64-setup.exe"
-    },
-    "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmIyWjF5R1JkMG0vejNEWS9VYlBJdDJOMEJnQ3JlMURRK3dtdXFoQklmcSttVDdlVkVCNmswa2JiRVJjVm9xcmgvd0NLNkxsYzZjWGlITlV2TzJpYUtST0RHbE1QM1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkwOTQzCWZpbGU6U21hcnRNYW51XzAuMS4xMF94NjQtc2V0dXAuZXhlCkE2bk9aS3hMNTNYMlBnd2xNMlhmVlFCamxiNEMyYkEyeHhIK1VkYWFSb3FMTVgxRGxTZm1pRHhnZEt6OVVjcVVsMDVxMVA3dzBLSmJPc1A1WnloYkFnPT0K",
-      "url": "https://kangaro0o.github.io/SmartManu-releases/downloads/desktop/SmartManu_0.1.10_x64-setup.exe"
-    },
-    "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmIyWjF5R1JkMG53NDdic21kVmQvZ3dLTkd5Q1I3RTFWSW9SVVZ4NG1vdHJwZ3BpT2oyMTkyL2htZkZxK0pmU20vcXNFOHRUZjBRV0tESWtjdERWZlJGdmpCSHF0ZFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkwOTQzCWZpbGU6U21hcnRNYW51XzAuMS4xMF94NjRfZW4tVVMubXNpCnNvakQyMEFnNGdpS1lIbzgvUTY4QTUreGZUODQxbEdINFJoOThoNUJmMWpWQWdSRDZZSDVONlBPR1F5VHcyY2JWWjNIQmhuc3NGUEt1QWg2RFh3RUN3PT0K",
-      "url": "https://kangaro0o.github.io/SmartManu-releases/downloads/desktop/SmartManu_0.1.10_x64_en-US.msi"
-    },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmIyWjF5R1JkMG9IVTJYYzdDc21JeDkyUW1mQUcxWklaTWVCNUpwWUhSL00wbjFSNXIvL21va0EwV2ZoYTlzU2NFaWNaWnVvdVlUcVFDY2FpaTFxVy95Qmd4a0d3VVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkwOTU3CWZpbGU6U21hcnRNYW51XzAuMS4xMF9hbWQ2NC5BcHBJbWFnZQpXdHR5eEoyeHBKY2RXSW5PNnVzbjE1K2RkMzVDd2tqWDRZODQzMllVbGd1Wnk3bzJ1SmxYa2FoYkZFWW14ZkI0cGNXRnhjVC9zb2Zsa0JLZkM3RGdDQT09Cg==",
-      "url": "https://kangaro0o.github.io/SmartManu-releases/downloads/desktop/SmartManu_0.1.10_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmIyWjF5R1JkMHVwOExzYk5hbWU2NVFzV05IUktzck1aSUt4ODIxUjc1djZmQW5mdzlrYi9ONVp5NFBJRzBzV0tRNDJwRSt4ZGY4MDI2bDRnZUN1VGFtMGs2T2dCM3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk2MjM0CWZpbGU6U21hcnRNYW51XzAuMS4xMV9hbWQ2NC5BcHBJbWFnZQo1R1Z3d1RYaHV0SHBiSXZUM2h1ZDhLZGRza0ordnRMY2lmOFJCN3YvejBTMFZDWGxRSXM1SWlYcmtURDhvZ2pwSnV5cWdwN0swRHQreVRVaWhVZjVCQT09Cg==",
+      "url": "https://kangaro0o.github.io/SmartManu-releases/downloads/desktop/SmartManu_0.1.11_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmIyWjF5R1JkMG9IVTJYYzdDc21JeDkyUW1mQUcxWklaTWVCNUpwWUhSL00wbjFSNXIvL21va0EwV2ZoYTlzU2NFaWNaWnVvdVlUcVFDY2FpaTFxVy95Qmd4a0d3VVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkwOTU3CWZpbGU6U21hcnRNYW51XzAuMS4xMF9hbWQ2NC5BcHBJbWFnZQpXdHR5eEoyeHBKY2RXSW5PNnVzbjE1K2RkMzVDd2tqWDRZODQzMllVbGd1Wnk3bzJ1SmxYa2FoYkZFWW14ZkI0cGNXRnhjVC9zb2Zsa0JLZkM3RGdDQT09Cg==",
-      "url": "https://kangaro0o.github.io/SmartManu-releases/downloads/desktop/SmartManu_0.1.10_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmIyWjF5R1JkMHVwOExzYk5hbWU2NVFzV05IUktzck1aSUt4ODIxUjc1djZmQW5mdzlrYi9ONVp5NFBJRzBzV0tRNDJwRSt4ZGY4MDI2bDRnZUN1VGFtMGs2T2dCM3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk2MjM0CWZpbGU6U21hcnRNYW51XzAuMS4xMV9hbWQ2NC5BcHBJbWFnZQo1R1Z3d1RYaHV0SHBiSXZUM2h1ZDhLZGRza0ordnRMY2lmOFJCN3YvejBTMFZDWGxRSXM1SWlYcmtURDhvZ2pwSnV5cWdwN0swRHQreVRVaWhVZjVCQT09Cg==",
+      "url": "https://kangaro0o.github.io/SmartManu-releases/downloads/desktop/SmartManu_0.1.11_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmIyWjF5R1JkMGxFWnpQTHBXOG1oMThTMnpWUGhzS1U3NTBiSWl1M1lIaDJiQ0R4NG1DNFdOaWNYWDhpNGNRdEgrYWVJZlQzRnhQa1FwbXFpQ0JpQk41ZkIrWGc2N1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkwOTU3CWZpbGU6U21hcnRNYW51XzAuMS4xMF9hbWQ2NC5kZWIKZzA2bnhIMG1HcURRSXlHdXhFOG96L2MzSzFQVW1OVFNXbnpsRjg0bnZ3RlRtTUlnRXhxb3NHTlBXb1VBWlZLNnRMU0svaXZtV1hEVHN5N3hNbVcrQ2c9PQo=",
-      "url": "https://kangaro0o.github.io/SmartManu-releases/downloads/desktop/SmartManu_0.1.10_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmIyWjF5R1JkMHN4ODlmL2F2UVpLSFA2eWJ6RVE1WEppZ01GV2c0TDNQNkdOSXlRUjFqTnBiN0szN3FScDZEWExaaWxCMWdtUFJ5aHd0SXN4NGdGZEtJNWMxeGFSeWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk2MjM0CWZpbGU6U21hcnRNYW51XzAuMS4xMV9hbWQ2NC5kZWIKcTMxMUpMVVVCVGNoTFVUSlRrcDhCODBTUWhIekttdHBCYytNSGhzbEFDbVpBNG00WUN1bkxzUzFDbUJtV3hKTHR6TjAzalVZNFBwQnlzVDBnRHROQlE9PQo=",
+      "url": "https://kangaro0o.github.io/SmartManu-releases/downloads/desktop/SmartManu_0.1.11_amd64.deb"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmIyWjF5R1JkMHZJQUNSWnMwaHRwcG1VeUpLbkNQMTVTZ2IrRnFaY0tHNHBhV2daSEhEVHNtaVJMUmtyWmhYS1VIU3VPTXQyaU1LWVpBQWZyd1Rmd21kZDMvZWRicFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk2NDU2CWZpbGU6U21hcnRNYW51XzAuMS4xMV94NjQtc2V0dXAuZXhlCndXWnFRT0NrNjdwaUZLTDRxOTQxd1o2Rm9KM0tuMWtFa3ZudGRWbUUzODBKdUtoclE4dzFvd3ZOVzNaQ2x3bDhWaWtZR1JsY1gxUFpNNmFoQURMV0FnPT0K",
+      "url": "https://kangaro0o.github.io/SmartManu-releases/downloads/desktop/SmartManu_0.1.11_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmIyWjF5R1JkMHZJQUNSWnMwaHRwcG1VeUpLbkNQMTVTZ2IrRnFaY0tHNHBhV2daSEhEVHNtaVJMUmtyWmhYS1VIU3VPTXQyaU1LWVpBQWZyd1Rmd21kZDMvZWRicFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk2NDU2CWZpbGU6U21hcnRNYW51XzAuMS4xMV94NjQtc2V0dXAuZXhlCndXWnFRT0NrNjdwaUZLTDRxOTQxd1o2Rm9KM0tuMWtFa3ZudGRWbUUzODBKdUtoclE4dzFvd3ZOVzNaQ2x3bDhWaWtZR1JsY1gxUFpNNmFoQURMV0FnPT0K",
+      "url": "https://kangaro0o.github.io/SmartManu-releases/downloads/desktop/SmartManu_0.1.11_x64-setup.exe"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmIyWjF5R1JkMGlncTFhSyszVDZpeE9DcU9oalhrQmIrMCt4OEZjTE0yUi9COHVHczNGYXV3RXFLMzMxUUc2QldGZmJmRlBoVWFVQjJZL1cyVGZSVGhaSnZCN0xadkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk2NDU2CWZpbGU6U21hcnRNYW51XzAuMS4xMV94NjRfZW4tVVMubXNpCm9lc29OMEdwa2ZMMGtGaTIzSWFwaVVTT01iK0Z1SmtoUGNaZ1I1MVdGOEJWT3lURFYxUzh3ZittdWlhR1RJN2huZGlVdkJ1cEFiM1k0a1YySXRMY0FBPT0K",
+      "url": "https://kangaro0o.github.io/SmartManu-releases/downloads/desktop/SmartManu_0.1.11_x64_en-US.msi"
     }
   }
 }
