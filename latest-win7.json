@@ -1,11 +1,11 @@
 {
-  "version": "0.1.11",
+  "version": "0.1.12",
   "notes": "SmartManu Win7 安装包",
-  "pub_date": "2026-11-12T14:46:14Z",
+  "pub_date": "2026-11-13T10:41:45Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmIyWjF5R1JkMHJ0dVRtM0xscWd0SDhLWU5sYmREVFBmVlNSM1JUNE9rY0k1dkJ3WVVLVmNRTmtmMFNydk9nSzZ6alVkUXJCM2pOS3hJSXo2YXVFM2dVRUZYc1dnNEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk0MzQzCWZpbGU6U21hcnRNYW51IFdpbjdfMC4xLjExX3g2NC1zZXR1cC5leGUKaS9GeXdwTk1Mamp1V05nR0dXYVg1aytickU3dGdHWXZTVVFoclpZRzJiaHgwR1JXVVBxRXBsZGUwcDdDR3BzM1k0NWROcnZlRkJ1N00xbHZ5T1k5RHc9PQo=",
-      "url": "https://api.github.com/repos/Kangaro0o/SmartManu-releases/releases/assets/739846861"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmIyWjF5R1JkMGw4QjFQdWhSSHV0ZU5Ld2twcEx2WUhramZMTVhVem5YODFqblFCcnNCYjhzSllsaEN4SUxTeTVWaXRqOFQvNmNiVHF1TXRJMGQyN293blNxZlA2M0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTY2MzQ5CWZpbGU6U21hcnRNYW51IFdpbjdfMC4xLjEyX3g2NC1zZXR1cC5leGUKTWtndHNrOEZERWpEaDRkTHJnSUQ2QWorMzZhYzNVRGo0bnZ0M1ZCYVJUaWpTQ3hXaVJXaDk5Z1p3ejhXV2lxV2lBckhTMTEyZDcxYS8zR29yS2JwRGc9PQo=",
+      "url": "https://api.github.com/repos/Kangaro0o/SmartManu-releases/releases/assets/743263987"
     }
   }
 }
